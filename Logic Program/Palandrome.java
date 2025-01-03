@@ -4,7 +4,7 @@ class Palandrome {
         Scanner sc = new Scanner (System.in);
         System.out.println("Enter A Number : ");
         int num = sc.nextInt();
-        int OrgNum = num;
+        int Num = num;
         int rev =0;
         while(num>0)
         { 
@@ -12,6 +12,7 @@ class Palandrome {
             rev = (rev*10)+rem;
             num/=10;
     }
-     System.out.println("(rev==OrgNum)? " Num is Palandrome " : " Not Palandrome ");
+    System.out.println(rev);
+     System.out.println((rev==Num)? " Num is Palandrome " : " Not Palandrome ");
 }
 }

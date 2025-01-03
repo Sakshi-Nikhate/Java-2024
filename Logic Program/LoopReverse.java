@@ -1,5 +1,7 @@
 class LoopReverse
 {
+    int i = 1234;
+
     public static void main(String[] args)
     {
         for(int i= 20 ; i>=1;i--)
@@ -7,4 +9,4 @@ class LoopReverse
             System.out.println(i);
         }
     }
-}
+};
