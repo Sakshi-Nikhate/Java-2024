@@ -1,6 +1,6 @@
 public class Armstrong {
     public static void main(String[] args) {
-        int num = 153;
+        int num = 143;
         int dup = num;
         int count = 0 ;
         int sum = 0 ;
