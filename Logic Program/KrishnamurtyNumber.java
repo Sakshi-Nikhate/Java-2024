@@ -1,6 +1,6 @@
 public class KrishnamurtyNumber {
     public static void main(String[] args) {
-        int num = 145;
+        int num = 15;
         int dup = num;
         int sum =0;
         while (num>0)
