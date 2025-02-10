@@ -4,6 +4,7 @@ public class LoopDigit {
         {
              System.out.println(i+" ");
         }
+        
     }
     
 }
