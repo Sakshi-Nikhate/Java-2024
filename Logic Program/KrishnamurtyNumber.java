@@ -14,4 +14,5 @@ public class KrishnamurtyNumber {
              }
              System.out.println((sum==dup)?(dup + " is Krishnamurty Number"):(dup+" is not Krishnamurty Number"));
     }
+    
 }
